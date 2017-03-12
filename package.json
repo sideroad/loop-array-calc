@@ -1,0 +1,22 @@
+{
+  "name": "loop-array-calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/loop-array-calc.js",
+  "scripts": {
+    "test": "jest src/__test__/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sideroad/loop-array-calc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sideroad/loop-array-calc/issues"
+  },
+  "homepage": "https://github.com/sideroad/loop-array-calc#readme",
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
